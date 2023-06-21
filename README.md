@@ -1,5 +1,8 @@
 # intermediate-py-snippets
 
+![code01](https://github.com/VellVoid/intermediate-py-snippets/assets/137341548/562633f5-d427-4ce6-960a-604bbdc572c9)
+
+
 Intermediate-level Python code snippets! If you're an aspiring programmer, this is a must-follow repository!
 
 🐍 Before diving into Python coding, ensure you've Python installed on your machine:

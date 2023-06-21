@@ -57,3 +57,6 @@ pip install requests
 
 pip install flask
 
+![image](https://github.com/VellVoid/intermediate-py-snippets/assets/137341548/c13fd476-20bf-49a1-b292-5b2b11ae05ce)
+
+

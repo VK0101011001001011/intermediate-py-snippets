@@ -48,3 +48,12 @@ ___
 Now, you're set for the Python coding!
 
 ___
+
+# PIP INSTALL
+
+pip install beautifulsoup4
+
+pip install requests
+
+pip install flask
+

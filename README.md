@@ -59,4 +59,6 @@ pip install flask
 
 ![image](https://github.com/VellVoid/intermediate-py-snippets/assets/137341548/c13fd476-20bf-49a1-b292-5b2b11ae05ce)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🐍📚 Python Code Snippet Thread 📚🐍<br><br>Learn Python with these powerful snippets! Each one highlights a unique concept. Let&#39;s explore! <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> <a href="https://twitter.com/hashtag/CodeSnippet?src=hash&amp;ref_src=twsrc%5Etfw">#CodeSnippet</a> <a href="https://twitter.com/hashtag/Education?src=hash&amp;ref_src=twsrc%5Etfw">#Education</a> <a href="https://t.co/buxhQjpMep">pic.twitter.com/buxhQjpMep</a></p>&mdash; Vell (@VellVoid) <a href="https://twitter.com/VellVoid/status/1672286361028636672?ref_src=twsrc%5Etfw">June 23, 2023</a></blockquote>
+
 
